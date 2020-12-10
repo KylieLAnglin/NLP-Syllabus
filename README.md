@@ -1,9 +1,4 @@
 # Natural Language Processing for Social Problems
-Credit Hours: 3
-
-
-Instructor: Kylie Anglin
- 
 
 # Course Description
 
